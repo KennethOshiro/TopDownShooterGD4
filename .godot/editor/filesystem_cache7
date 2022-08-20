@@ -1,0 +1,13 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1661004961
+default_env.tres::Environment::-1::1661004828::0::1::::<><>::
+icon.png::CompressedTexture2D::528282075788207917::1661004828::1661004963::1::::<><>::
+Player.gd::GDScript::-1::1661004828::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::-1::1661004828::0::1::::<><>::res://Player.gd<>res://soldier.png
+README.md::TextFile::-1::1661004828::0::1::::<><>::
+soldier.png::CompressedTexture2D::6187204427911186225::1661004828::1661004963::1::::<><>::
+tdthumb.png::CompressedTexture2D::5469690805514855680::1661004828::1661004963::1::::<><>::
+World.tscn::PackedScene::-1::1661004828::0::1::::<><>::res://Player.tscn<>res://Zombie.tscn
+Zombie.gd::GDScript::-1::1661004828::0::1::::<>CharacterBody2D<>::
+zombie.png::CompressedTexture2D::6516691279857016948::1661004828::1661004963::1::::<><>::
+Zombie.tscn::PackedScene::-1::1661004828::0::1::::<><>::res://Zombie.gd<>res://zombie.png
